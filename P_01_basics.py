@@ -1,1 +1,1 @@
-print("i hate betas")
+print("i goon")
